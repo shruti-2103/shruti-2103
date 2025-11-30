@@ -13,23 +13,24 @@ I'm a passionate developer focused on building clean, functional, and user‑fri
 * HTML5, CSS3, JavaScript (ES6+)
 * Responsive UI Design
 * DOM Manipulation
-* React (Learning)
+* React 
 
-### **Backend:**
+### Backend:
 
-* Node.js (Learning)
+* Node.js 
 * Express.js (Learning)
 * MongoDB (Learning)
 
-### **Tools & Platforms:**
+### Tools & Platforms:
 
 * Git & GitHub
 * VS Code
 * Netlify / GitHub Pages
+* Tailwind
 
 ---
 
-📌 **Highlighted Projects**
+📌 Highlighted Projects
 
 🟢 **Snake Game (HTML, CSS, JavaScript)**
 
