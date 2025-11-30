@@ -1,16 +1,78 @@
-## Hi there 👋
+ Hi there, I'm Shruti Chourasiya! 👋
 
-<!--
-**shruti-2103/shruti-2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | JavaScript Enthusiast | Frontend & Backend Learner**
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building clean, functional, and user‑friendly web applications. I love working with JavaScript, React, Node.js, and creating real projects to level up my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+ 🧠 **Tech Stack & Skills**
+
+ **Frontend:**
+
+* HTML5, CSS3, JavaScript (ES6+)
+* Responsive UI Design
+* DOM Manipulation
+* React (Learning)
+
+### **Backend:**
+
+* Node.js (Learning)
+* Express.js (Learning)
+* MongoDB (Learning)
+
+### **Tools & Platforms:**
+
+* Git & GitHub
+* VS Code
+* Netlify / GitHub Pages
+
+---
+
+📌 **Highlighted Projects**
+
+🟢 **Snake Game (HTML, CSS, JavaScript)**
+
+A classic snake game with sound effects, score tracking, collision logic, and responsive controls.
+**Features:** Real-time movement, mobile touch controls, audio effects.
+
+🟡 **Tic Tac Toe Game**
+
+Interactive game with winning logic, hover effects, animations.
+
+🔵 **QR Code Generator**
+
+Generates instant QR codes using JavaScript.
+
+ 🟠 **Twitter Clone UI**
+
+A clean static UI of the Twitter homepage.
+
+> *More projects coming soon…* 🚀
+
+---
+
+## 📊 **GitHub Stats**
+
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruti-2103\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-2103\&layout=compact\&theme=tokyonight)
+
+---
+
+ 🌱 Currently Learning
+
+* React.js
+* Node.js & Express
+* MongoDB
+* Complete MERN Stack Projects
+
+---
+
+📫 Connect With Me
+
+GitHub: [github.com/shruti-2103](https://github.com/shruti-2103)
+
+---
+
+✨Thanks for visiting! Feel free to explore my repositories and projects.
 -->
