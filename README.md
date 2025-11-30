@@ -53,13 +53,6 @@ A clean static UI of the Twitter homepage.
 
 ---
 
-## 📊 **GitHub Stats**
-
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruti-2103\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-2103\&layout=compact\&theme=tokyonight)
-
----
-
  🌱 Currently Learning
 
 * React.js
